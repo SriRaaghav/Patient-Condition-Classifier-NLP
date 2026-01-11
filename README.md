@@ -1,6 +1,6 @@
 # Patient’s Condition Classification Using Drug Reviews
 
-![Link to the dataset](https://drive.google.com/file/d/1-A2yqvslR0uWl53--m2xxfj_PZm-ddqS/view?usp=drive_link)
+Link to the dataset: https://drive.google.com/file/d/1-A2yqvslR0uWl53--m2xxfj_PZm-ddqS/view?usp=drive_link
 
 ## Table of Contents:
 ### 1. Description
