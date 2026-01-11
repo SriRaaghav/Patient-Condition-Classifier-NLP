@@ -35,5 +35,4 @@ The datset is collected from [UCI](https://archive.ics.uci.edu/ml/datasets/Drug+
 ### 5. Evaluation
 1. `Confusion Matrix`
 2. `Accuracy`
-# Patient-Condition-Classifier-NLP
-# Patient-Condition-Classifier-NLP
+
